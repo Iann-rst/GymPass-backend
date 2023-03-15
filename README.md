@@ -41,3 +41,5 @@ GymPass style app.
 - [x] In-Memory Databases;
 - [x] Coverage de testes;
 - [x] UI do Vitest;
+
+- [x] Factory Pattern;
