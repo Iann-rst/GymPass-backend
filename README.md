@@ -30,3 +30,9 @@ GymPass style app.
 - [ ] Os dados da aplicação precisam estar persistidos em um banco PostreSQL;
 - [ ] Todas as listas de dados precisam estar paginadas com 20 itens por página;
 - [ ] O usuário deve ser identificado por um JWT (JSON Web Token);
+
+
+## Caso de uso e design patterns
+
+- [ ] Caso de uso de registro;
+- [ ] Repository Pattern;
