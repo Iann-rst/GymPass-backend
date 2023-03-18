@@ -22,9 +22,14 @@ describe('Get User Metrics Use Case', () => {
       user_id: 'user-01',
     })
 
+    await checkInsRepository.create({
+      gym_id: 'gym-03',
+      user_id: 'user-01',
+    })
+
     const { checkInsCount } = await getUserMetrics.execute({
       userId: 'user-01',
     })
-    expect(checkInsCount).toEqual(2)
+    expect(checkInsCount).toEqual(3)
   })
 })
