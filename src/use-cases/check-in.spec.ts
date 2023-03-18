@@ -9,17 +9,17 @@ let gymsRepository: InMemoryGymsRepository
 let checkInUseCase: CheckInUseCase
 
 describe('Check-in Use Case', () => {
-  beforeEach(() => {
+  beforeEach(async () => {
     checkInsRepository = new InMemoryCheckInsRepository()
     gymsRepository = new InMemoryGymsRepository()
     checkInUseCase = new CheckInUseCase(checkInsRepository, gymsRepository)
 
-    gymsRepository.items.push({
+    await gymsRepository.create({
       id: 'gym-01',
       title: 'JavaScript',
       description: '',
-      latitude: new Decimal(-12.156271),
-      longitude: new Decimal(-44.9875447),
+      latitude: -12.156271,
+      longitude: -44.9875447,
       phone: '',
     })
 
