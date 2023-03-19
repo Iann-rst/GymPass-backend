@@ -50,3 +50,10 @@ GymPass style app.
 
 - [x] JWT - JSON Web Token;
 - [x] Fastify/jwt;
+
+## Testes E2E
+
+- [x] Test Environment do Prisma;
+- [x] Teste E2E de rotas de usuário;
+- [x] Teste E2E de rotas de academia;
+- [x] Teste E2E de rotas de check-ins;
