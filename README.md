@@ -57,3 +57,10 @@ GymPass style app.
 - [x] Teste E2E de rotas de usuário;
 - [x] Teste E2E de rotas de academia;
 - [x] Teste E2E de rotas de check-ins;
+
+## Refresh Token & RBAC
+
+- [x] Estratégia de refresh de token;
+- [x] Implementação do refresh token;
+- [x] Autorização por cargos (RBAC);
+- [x] Testes de RBAC;
