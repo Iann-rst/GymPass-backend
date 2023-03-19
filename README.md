@@ -44,4 +44,9 @@ GymPass style app.
 
 - [x] Factory Pattern;
 
-- [x] TTD -> Test-driven development
+- [x] TTD -> Test-driven development;
+
+## Autenticação
+
+- [x] JWT - JSON Web Token;
+- [x] Fastify/jwt;
