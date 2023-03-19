@@ -64,3 +64,8 @@ GymPass style app.
 - [x] Implementação do refresh token;
 - [x] Autorização por cargos (RBAC);
 - [x] Testes de RBAC;
+
+## CI/CD da aplicação
+
+- [x] Executando testes unitários no CI;
+- [x] Executando testes E2E no CI;
