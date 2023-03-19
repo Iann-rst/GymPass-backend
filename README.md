@@ -69,3 +69,4 @@ GymPass style app.
 
 - [x] Executando testes unitários no CI;
 - [x] Executando testes E2E no CI;
+- [x] GitHub Actions;
