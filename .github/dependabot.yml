@@ -6,18 +6,9 @@
 version: 2
 updates:
   - package-ecosystem: "npm"
-    directory: "/"
+  directory: "/"
     schedule:
       interval: "weekly"
-    commit:
-      message: "chore(deps): atualizar dependências"
-      args: ["-S"]
-    pr:
-      title: "Atualizar dependências"
-    pr:
-      body: |
-        Foram atualizadas as seguintes dependências:
-      
-        $CHANGED_DEPENDENCIES
-      
-        Este pull request foi gerado automaticamente pelo Dependabot.
+    commit-message:
+      # Prefix all commit messages with "npm: "
+      prefix: "fix(deps):"
