@@ -9,6 +9,12 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-    commit-message:
-      # Prefix all commit messages with "npm: "
-      prefix: "fix(deps):"
+    commit-message: "chore(deps): atualizar dependências"
+    commit-args: ["-S"]
+    pr-title: "Atualizar dependências"
+    pr-body: |
+      Foram atualizadas as seguintes dependências:
+      
+      $CHANGED_DEPENDENCIES
+      
+      Este pull request foi gerado automaticamente pelo Dependabot.
