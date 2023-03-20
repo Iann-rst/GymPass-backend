@@ -9,6 +9,8 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+      time: "09:00"
+    open-pull-requests-limit: 10
     commit-message:
       # Prefix all commit messages with "npm: "
-      prefix: "fix(deps):"
+      prefix: "chore(deps):"
