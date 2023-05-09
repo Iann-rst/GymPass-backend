@@ -25,7 +25,7 @@
   "devDependencies": {
     "@rocketseat/eslint-config": "1.2.0",
     "@types/bcryptjs": "2.4.2",
-    "@types/node": "20.0.0",
+    "@types/node": "20.1.1",
     "@types/supertest": "2.0.12",
     "@vitest/coverage-c8": "0.31.0",
     "@vitest/ui": "0.31.0",
