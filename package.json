@@ -24,7 +24,7 @@
   "license": "ISC",
   "devDependencies": {
     "@rocketseat/eslint-config": "2.1.0",
-    "@types/bcryptjs": "2.4.2",
+    "@types/bcryptjs": "2.4.3",
     "@types/node": "20.5.7",
     "@types/supertest": "2.0.12",
     "@vitest/coverage-c8": "0.33.0",
