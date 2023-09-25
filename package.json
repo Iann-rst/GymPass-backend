@@ -29,7 +29,7 @@
     "@types/supertest": "2.0.12",
     "@vitest/coverage-c8": "0.33.0",
     "@vitest/ui": "0.34.5",
-    "eslint": "8.49.0",
+    "eslint": "8.50.0",
     "npm-run-all": "4.1.5",
     "prisma": "5.3.1",
     "supertest": "6.3.3",
