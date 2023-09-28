@@ -26,7 +26,7 @@
     "@rocketseat/eslint-config": "2.1.0",
     "@types/bcryptjs": "2.4.4",
     "@types/node": "20.7.1",
-    "@types/supertest": "2.0.12",
+    "@types/supertest": "2.0.13",
     "@vitest/coverage-c8": "0.33.0",
     "@vitest/ui": "0.34.5",
     "eslint": "8.50.0",
