@@ -34,7 +34,7 @@
     "prisma": "5.7.1",
     "supertest": "6.3.3",
     "tsup": "8.0.1",
-    "tsx": "4.6.2",
+    "tsx": "4.7.0",
     "typescript": "5.3.3",
     "vite-tsconfig-paths": "4.2.2",
     "vitest": "0.34.6"
