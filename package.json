@@ -45,7 +45,7 @@
     "@prisma/client": "5.9.1",
     "bcryptjs": "2.4.3",
     "dayjs": "1.11.10",
-    "dotenv": "16.4.2",
+    "dotenv": "16.4.3",
     "fastify": "4.26.0",
     "zod": "3.22.4"
   }
