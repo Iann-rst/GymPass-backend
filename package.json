@@ -43,7 +43,7 @@
     "@fastify/cookie": "11.0.2",
     "@fastify/jwt": "9.0.4",
     "@prisma/client": "6.3.1",
-    "bcryptjs": "2.4.3",
+    "bcryptjs": "3.0.0",
     "dayjs": "1.11.13",
     "dotenv": "16.4.7",
     "fastify": "5.2.1",
