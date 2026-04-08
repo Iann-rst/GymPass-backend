@@ -42,7 +42,7 @@
   "dependencies": {
     "@fastify/cookie": "11.0.2",
     "@fastify/jwt": "10.0.0",
-    "@prisma/client": "7.6.0",
+    "@prisma/client": "7.7.0",
     "bcryptjs": "3.0.3",
     "dayjs": "1.11.20",
     "dotenv": "17.4.1",
