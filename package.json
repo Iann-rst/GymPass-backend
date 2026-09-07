@@ -37,7 +37,7 @@
     "tsx": "4.23.13",
     "typescript": "7.0.2",
     "vite-tsconfig-paths": "6.1.1",
-    "vitest": "4.1.11"
+    "vitest": "5.0.0"
   },
   "dependencies": {
     "@fastify/cookie": "11.1.2",
