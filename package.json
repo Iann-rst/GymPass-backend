@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@fastify/cookie": "11.1.5",
-    "@fastify/jwt": "10.2.5",
+    "@fastify/jwt": "10.2.6",
     "@prisma/client": "7.10.1",
     "bcryptjs": "3.0.3",
     "dayjs": "1.11.23",
